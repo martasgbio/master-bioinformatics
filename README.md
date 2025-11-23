@@ -14,9 +14,19 @@ Here I will upload simple and well-documented scripts related to:
 
 ## 📁 Repository Structure
 
-bioinformatics-fundamentals/
-├── scripts/
-├── data/
-├── README.md
-└── requirements.txt
+
+- `scripts/` — Python scripts for basic bioinformatics tasks  
+- `data/` — Example FASTA files or small test datasets  
+- `README.md` — Project documentation  
+- `requirements.txt` — Python dependencies
+
+## 🎯 Project Purpose
+To practice core bioinformatics concepts and build a beginner-friendly portfolio that demonstrates essential skills in computational biology.
+
+## 🛠 Technologies Used
+- Python  
+- Biopython  
+
+## 👤 Author
+Repository created for educational purposes and hands-on bioinformatics practice.
 
